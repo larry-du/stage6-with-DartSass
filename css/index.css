@@ -522,7 +522,7 @@ footer h2, .welcome h2, .product h2 {
   display: -webkit-box;
   -webkit-box-orient: vertical;
   -webkit-line-clamp: 5;
-  overflow: hidden;
+  overflow: auto;
 }
 @media (min-width: 992px) {
   .card-text p {
